@@ -68,6 +68,6 @@ app.listen(process.env.PORT);
 /*
 IF RUNNING LOCALLY
 
-app.listen(process.env.PORT);
+app.listen(3000);
 
 */
